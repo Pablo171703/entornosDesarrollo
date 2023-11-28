@@ -9,6 +9,7 @@ public class Ejercicio1 {
 			  sum += i;
 			}
 			System.out.println("La suma de los números del 1 al " + n + " es: " + sum);
+			System.out.println("La suma de los números del 1 al " + n + " es: " + sum);
 		}
 
 	}
